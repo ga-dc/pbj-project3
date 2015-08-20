@@ -6,23 +6,22 @@ While your last project taught you how to get started with Ruby, SQL, & Ruby on 
 
 Your instructors will partner you with other classmates to architect, design, and collaboratively build an API of your own design.
 
-**This is meant to push you both technically and collaboratively.** It's a lot harder to work in a team than to work by yourself, but that's most likely you're going to find yourself doing in your first development job after WDI, and **it's important to learn how to work together.**
+**This is meant to push you both technically and collaboratively.**  You will, almost certainly, be joining a development team during your career.  Working collaboratively is a learned skill, just like programming. **It's important to learn how to work together.**
 
 ---
 
-### Suggested Ways to Get Started
+### Pro Tips
 
+* **Keep user stories small** and well-defined. Remember: user stories focus on what a user *needs*, not what development tasks need accomplishing.
+* **Write pseudocode** before you write actual code. Thinking through the logic first helps.
 * **Don't hesitate** to write throwaway code to solve short-term problems.
 * **Read the docs** for whatever technologies / frameworks / API's you plan to use. (See ["RTFM"](https://en.wikipedia.org/wiki/RTFM))
 * **Write your code DRY** and build your APIs RESTful.
 * **Be consistent** with your code style. You're working in teams, but you're only making one app per team. Make sure it looks like a unified effort.
 * **Commit early; commit often.** Don't be afraid to break something because you can always go back in time to a previous version.
 * **Deploy early; deploy often.** Deploy your work as early as possible, even if you don't really have anything completed. Heroku issues **always** pop up. Don't be caught short just before the submission deadline!
-* **Keep user stories small** and well-defined. Remember: user stories focus on what a user *needs*, not what development tasks need accomplishing.
-* **Write code another developer wouldn't have to ask you about**. Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is? (See ["self-documenting"](https://en.wikipedia.org/wiki/Self-documenting))
-* **Make it all well-formatted.** Are you indenting consistently? Can we find the start and end of every div, curly brace, etc?
-* **Comment your code.** Will someone understand what is going on in each block or function? Even if it's obvious, explaining the what and why means someone else can pick it up and get it.
-* **Write pseudocode** before you write actual code. Thinking through the logic of something helps.
+* **Name things appropriately.  Comment as necessary.** Do your naming conventions make sense? Would another developer be able to look at your app and understand what everything is? (See ["self-documenting"](https://en.wikipedia.org/wiki/Self-documenting)).  Even if it's obvious, comments can help to explain the intent -- the what and why.  This allows the next developer to understand the purpose and decide what can be adjusted to achieve the same goal.
+* **Ensure it is well-formatted.** Are you indenting consistently? Can we find the start and end of every div, curly brace, etc?  Organizing the hierarchy is key to understanding.
 
 
 ---
@@ -58,7 +57,7 @@ Note that instructors will *not* be grading on a numbered scale this time. Proje
 
 Attendance will be at 12:00pm on Friday. Groups are otherwise welcome to work outside of GA at their collective discretion.
 
-You group **must** designate a "representative" to contact an instructor 
+You group **must** designate a "representative" to contact an instructor.  ???mms To do what?  When?
 
 ---
 
@@ -68,7 +67,13 @@ Instructors will be checking Github issues to respond to technical questions.
 
 Additionally, each group may request 20 minutes of in-person instructor support **3 times** over the course of the project. These may be redeemed **anytime** during business hours: simply Slack the instructor and they'll come as quickly as possible. However, unused minutes don't "roll over".
 
-For existential questions, and/or those regarding expectations, instructors may be reached via Slack at **any time**, inside **and** outside of business hours (although they may be somewhat slower to respond outside of business hours).
+???mms  ^ no mention of tokens, but does mention "redeeming".
+Did you remove because it wasn't clear or because we aren't using them?
+Below is the original, with "each is good for" added - for clarity.
+
+Additionally, each group will receive 3 "tokens", each is good for 20 minutes of in-person instructor support. These may be redeemed any time during business hours: simply Slack the instructor and they'll come as quickly as possible. Unused minutes don't "roll over".
+
+For existential questions, and/or those regarding expectations, instructors may be reached via Slack at **any time**, inside **and** outside of business hours (although they may be somewhat slower to respond outside of business hours).  We recommend contacting the group of instructors via ???.
 
 ---
 
